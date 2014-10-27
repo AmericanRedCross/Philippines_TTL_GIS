@@ -16,6 +16,7 @@ The ideal candidate has basic work experience, a strong education and a proven a
 This position will report to the TTL Head of Programs and receive day-to-day direction from the Asia GIS Officer.
 
 ### Responsibilities
+
 -	Compile data, including geospatial data, from a variety of sources such as field observation, surveys, secondary sources, OpenStreetMap and satellite imagery
 -	Manage TTL project PostGIS database: design new queries, create and implement data quality controls and sync regularly with remote backup server
 -	Maintain project database connections to the TTL Formhub server, CartoDB and other external services
